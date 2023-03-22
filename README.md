@@ -8,8 +8,8 @@ To start the server, enter the following into your terminal (ensure you have car
 
 List of commands:
 
-* ls p // lists all peer clients
-* ls c // prints the local blockchain
-* create b $data // creates a new block in the chain with value $data, which is of type String
+* `ls p // lists all peer clients`
+* `ls c // prints the local blockchain`
+* `create b $data // creates a new block in the chain with value $data, which is of type String`
 
 Thanks to @zupzup for his tutorial on LogRocket
