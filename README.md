@@ -13,3 +13,5 @@ List of commands:
 * `create b $data` - creates a new block in the chain with value $data, which is of type String
 
 Thanks to @zupzup for his tutorial on LogRocket
+
+small update
