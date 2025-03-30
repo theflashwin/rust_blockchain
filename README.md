@@ -1,4 +1,4 @@
-# Rust Blockchain Project
+# A Simple Blockchain in Rust
 
 This project demonstrates a basic blockvhain project that implements basic blockchain concepts, such as hashes, smart contracts, genesis nodes, and chain validation.
 
